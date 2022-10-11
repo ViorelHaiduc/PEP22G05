@@ -47,3 +47,8 @@ print (a==b)
 print('Id of a is ' ,id(a))
 print('Id of b is ',      id(b))
 print (a is b)
+
+#slice
+    #0123456789
+a = 'my text'
+print(a[1])
