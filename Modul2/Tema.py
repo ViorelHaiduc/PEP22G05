@@ -16,3 +16,7 @@ print(a[0])
 print(a[::-1])
 
 #3
+c=int(input("Introduceti un nr : "))
+print(a*c)
+
+#4
