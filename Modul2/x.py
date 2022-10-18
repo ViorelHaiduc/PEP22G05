@@ -1,5 +1,12 @@
-a=1
-print("a = " , a )
-a=a+1
-print( "a = " ,a)
-print(a==a)
+my_str = '*'
+result = my_str.center(7)
+print(result)
+my_str = '***'
+result = my_str.center(7)
+print(result)
+my_str = '*****'
+result = my_str.center(7)
+print(result)
+my_str = '*******'
+result = my_str.center(7)
+print(result)
