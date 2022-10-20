@@ -146,3 +146,4 @@ for i in result:
 
     for i in result:
         print(i)
+#while loop
