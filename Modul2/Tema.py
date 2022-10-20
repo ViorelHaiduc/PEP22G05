@@ -1,7 +1,4 @@
-#1
-#a="Passme1n"
-#b=input("Introduceti parola:" )
-#print(a==b)
+
 
 #2
 a=input("Introduceti primul nume")
